@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/movies_deploy/static/css/main.2a33eb62.chunk.css",
+    "main.css": "/movies_deploy/static/css/main.9ff59478.chunk.css",
     "main.js": "/movies_deploy/static/js/main.874da487.chunk.js",
     "main.js.map": "/movies_deploy/static/js/main.874da487.chunk.js.map",
     "runtime-main.js": "/movies_deploy/static/js/runtime-main.b5a99b71.js",
@@ -10,14 +10,14 @@
     "static/js/3.71846bc6.chunk.js": "/movies_deploy/static/js/3.71846bc6.chunk.js",
     "static/js/3.71846bc6.chunk.js.map": "/movies_deploy/static/js/3.71846bc6.chunk.js.map",
     "index.html": "/movies_deploy/index.html",
-    "static/css/main.2a33eb62.chunk.css.map": "/movies_deploy/static/css/main.2a33eb62.chunk.css.map",
+    "static/css/main.9ff59478.chunk.css.map": "/movies_deploy/static/css/main.9ff59478.chunk.css.map",
     "static/js/2.bf371f32.chunk.js.LICENSE.txt": "/movies_deploy/static/js/2.bf371f32.chunk.js.LICENSE.txt",
     "static/media/userMock.5a2a145b.png": "/movies_deploy/static/media/userMock.5a2a145b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b5a99b71.js",
     "static/js/2.bf371f32.chunk.js",
-    "static/css/main.2a33eb62.chunk.css",
+    "static/css/main.9ff59478.chunk.css",
     "static/js/main.874da487.chunk.js"
   ]
 }
